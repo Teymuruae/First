@@ -1,1 +1,2 @@
 for file3 text
+text file3
