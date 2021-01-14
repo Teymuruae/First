@@ -1,1 +1,2 @@
 Hi file2
+letter for file2
